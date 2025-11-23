@@ -1,3 +1,4 @@
 font-size = 16
-theme = GruvboxDark
+theme = Gruvbox Dark
 macos-titlebar-style = hidden
+window-decoration = false
