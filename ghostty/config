@@ -1,0 +1,4 @@
+font-size = 16
+theme = Gruvbox Dark
+macos-titlebar-style = hidden
+window-decoration = false
